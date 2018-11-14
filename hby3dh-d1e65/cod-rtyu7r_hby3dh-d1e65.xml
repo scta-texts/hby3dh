@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -45,21 +42,33 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="include-list">
-        
-      </div>
+      
       <div xml:id="starts-on">
         <pb ed="#P" n="1-r"/>
       </div>
     </front>
     <body>
-      <div xml:id="pg-b2q4">
-        <head>Fishacre Prologus [Bnf 15754 Transcription]</head>
-        <p>
-          
+      <div xml:id="hby3dh-d1e65">
+        <head xml:id="hby3dh-d1e65-Hd1e98">Fishacre Prologus [Bnf 15754 Transcription]</head>
+        <p xml:id="hby3dh-d1e65-d1e101">
+          <lb ed="#P"/>O 11 <quote xml:id="hby3dh-d1e65-Qd1e105" ana="#rom11_33">O altitudo divitiarum sapientiae et scientiae dei</quote> constat quod non est parum 
+          <lb ed="#P"/>admirabilis illa sapientia quam admirans sit exclamat doc<lb ed="#P"/>tor 
+          gentium qui raptus usque ad 3m caelum <quote xml:id="hby3dh-d1e65-Qd1e112" ana="#Icor12_4">audivit archa<lb ed="#P"/>na
+          verba quod non licet homini loqui</quote> Cor 12
         </p>
-        
-        
+        <p xml:id="hby3dh-d1e65-d1e118">
+          <pc type="#pilcrow"/>propterea <del rend="strikethrough expunctuation">anorum</del> videamus 
+          quaesit sapientia ista <pc type="virgula">/</pc> duplicem dicit <ref xml:id="hby3dh-d1e65-Rd1e128" ana="#iac3_15"><name>Iacobus</name> in cantica sua 3 in fine</ref> esse sapientiam 
+          <lb ed="#P"/>unam quidem desursum et alia <add place="margin-left">de</add> deorsum quae complectitur omnes saeculares <add place="above-line">scientias</add> quam 
+          <lb ed="#P"/>idem in 3 partes dividit dicens <quote xml:id="hby3dh-d1e65-Qd1e144" ana="#iac3_15">non est ista sapientia desursum descendens sed 
+          <lb ed="#P"/><seg type="correction"><del>de</del>terrena</seg> animalis et diabolica</quote> <pc type="virgula">/</pc> terrean quantum ad lucrativas scientias <pc type="virgula">/</pc> animalis quantum 
+          <lb ed="#P"/>ad phisicas; diabolica quantum ad haereticas et magicas sub quibus conti<lb ed="#P"/>nentur 
+          quaedam astrorum iudicia geomantia et omnes <seg type="correction"><subst><del>dem</del><add place="above-line">divina</add></subst>tiones</seg> auguria 
+          <lb ed="#P"/>et sortilegia quia ergo istae omnes <add place="above-line">de</add> deorsum sunt constat quod nulla earum esset 
+          <lb ed="#P"/>illa cuius altitudinem admiratur <name>apostolus</name> sic exclamans <quote xml:id="hby3dh-d1e65-Qd1e183" type="lemma">O altitu<lb ed="#P"/>do</quote> 
+          etc sed illa tamen quae <seg type="correction"><add place="above-line">de</add>sursum</seg> est unde manifestans cuius altitudinem ad<lb ed="#P"/>miretur 
+          subdit <quote xml:id="hby3dh-d1e65-Qd1e195" type="lemma">sapientiae et scientiae dei</quote> quasi dicat non mundi id est secularum scientiarum 
+        </p>
       </div>
     </body>
   </text>
