@@ -53,11 +53,173 @@
       </div>
     </front>
     <body>
-      <div xml:id="pg-b2q4">
+      <div xml:id="hby3dh-d1e73">
         <head>Prologus [Bnf 15754 Transcription]</head>
-        <p></p>
-        
-        
+        <p>....</p>
+        <p>
+          <lb ed="#P"/>via superius <add>dixit</add> <name>magister</name> veritatem <unclear>offensione</unclear> <del rend="expunctuation">se</del> et alias contra verita<lb ed="#P"/>tem 
+          <quote>sine foedere bellare <!-- end of hillary quote, quoted in lombard --></quote> id est sine te conciliatione merito <unclear>quare</unclear> an quis 
+          <lb ed="#P"/>possit odio habere veritatem Item an possit amare falsitatem Item an 
+          <lb ed="#P"/>possit odire omnem veritatem
+        </p>
+        <p>
+          <pc type="virgula">/</pc>De primo quod non <unclear>u?t?o?is</unclear> homo <unclear>naturaliter <!-- looks like nullus --></unclear> scire desiderat 
+          <lb ed="#P"/>sed nihil scitur nisi verum ergo naturaliter veritatem desiderat sed quod radicatur in natura 
+          <lb ed="#P"/><unclear>manet</unclear> durante natura ergo <unclear>d</unclear> <unclear>manet</unclear> <del rend="expunctuation">et es</del> homo manet in eo amor veritatis 
+          <lb ed="#P"/>ergo non odium
+          <!-- Concerning the first question, that not, ??? man naturally desires to know but he knows nothing 
+            except what is true, therefore he naturally desires the truth. But what is rooted in nature
+            remains as long as it is in nature, therefore man remains, love of truth remains in him, 
+            therefore not hate -->
+        </p>
+        <p>
+          <!-- 2 -->
+          Item <subst><del>iuxta</del> <add place="above-line">lux</add></subst> corporalis <del>vel</del> naturaliter delectant visum corporale <ref><title>ecc</title> 
+          <lb ed="#P"/>11</ref> <quote ana="#qoh11_7">dulce lumen et desiderabile oculis videre solem</quote> <title>prov</title> 15 <quote ana="#prov15_30">lux oculorum 
+          <lb ed="#P"/>laetificat animam</quote> ergo lux spiritualis scilicet <seg type="correction">verita<del>ti</del>s</seg> naturaliter delectant visum 
+          <lb ed="#P"/>spiritualem ergo non odit <!-- addition in margin -->
+          <!-- Again the corporeal light naturally desires corporeal sight <quote>the light is sweet and desirable for the eyes to see the sun</quote> proverbs 14 <quote>the light of the eyes 
+            makes glad the soul</quote>. Therefore, spiritual light, namely the truth naturally delights the spiritual sight, 
+            therefore it does not hate. -->
+          
+        </p>
+        <p>
+          <!-- 3 -->
+          Item non <unclear>potest</unclear> <unclear>aff?</unclear> amare vitium <name>augustinus</name> 9 <title>confessionum</title> <unclear>l 12</unclear> 
+          <lb ed="#P"/>nec ipsecat?llma amavit facinora sua sed aliud cuius causa illud fa<lb ed="#P"/>ciebat 
+          ergo nec aspectus falsum nec est contra de <subst><del>fuctotudo</del><add place="above-line">furtos</add></subst> <name>augustinus</name> eodem libro <del rend="expunctuation">ut</del> 
+          <lb ed="#P"/>divino libuit facere contra legem saltem falsa quia <unclear>pot?u</unclear> non <unclear>poteram</unclear> ut sic 
+          <lb ed="#P"/>libertatem <unclear>captus</unclear> <unclear>imitarei</unclear> faciendo in prime quod non liceret tenebrosa 
+          <lb ed="#P"/>omnipotentis similitudine
+        </p>
+        <p>
+          <!-- 4 -->
+          Item aequalitas placet et inaequalitas offendit <ref><name>augustinus</name> in libro 
+          <lb ed="#P"/>de quantitate animae</ref> inaequalitate aequalitate vitae praepositionis nec quisquam omnino est ut opinor 
+          <lb ed="#P"/>humano sensibili praeditus cui non id videatur <pc type="virgula">/</pc> sed quod omnibus in est naturale est <unclear>ubi</unclear> 
+          <lb ed="#P"/>dicit <name>augustinus</name> ergo naturaliter aequalitas placit et offendit inaqualitas sed veritas est adae<lb ed="#P"/>quatio 
+          rei dictae et <unclear>verbi</unclear> dicentis falsitas inaequalitas ergo haec placet illa displi<lb ed="#P"/>cet
+          <!-- Again equality pleases and inequality offends says Augustine in his book 
+          on the quantity of the sou. to inequality the equality of a true porposition and not is not whatever entirely, 
+          as I think, to the sensibile human....
+          
+          ...But because to everyone it is natural 
+          where Augustine says, therefore naturally equality pleases and inequality offends 
+          but truth is the adequation of a thing spoken of and the word speaking. 
+          Falsity is the inequality, 
+          therefore the former pleases and the latter displeases.
+          --> 
+        </p>
+        <p>
+          <!-- 5 -->
+          Item ut dicit <name>augustinus</name> omne odium radicatur in amore <unclear><pc type="virgula">/</pc></unclear> <del>omnipotens</del> o<add>p</add>positi eius quod o<lb ed="#P"/>ditur 
+          <del rend="strikethrough">quod</del> <add place="above-line">sed</add> falsum non potest amari ergo nec veritas oditi <pc type="virgula">/</pc> media patet multipliciter <pc type="virgula">/</pc> quod nihil 
+          <lb ed="#P"/>est non amatur falsitas nihil est ergo non potest amari <pc type="virgula">/</pc> minor sic <add place="above-line">patet</add> <del>fieri</del> Iohannes 1 <quote>omnia per 
+          <lb ed="#P"/>ipsum facta sunt</quote> id est per verbum quod dicitur <unclear>secundum</unclear> <name>augustinum</name> 43 <unclear>q q</unclear> verum beatas ergo per verbum 
+          <lb ed="#P"/>non est factum falsum et cum per ipsum omnia facta sunt ergo falsum non <add place="above-line">est</add> aliquid de omnibus unde <name>augustinus</name> 
+          <lb ed="#P"/><unclear>sot 1</unclear> id est in fine omnino quicquid falsum <unclear>et</unclear> non est
+        </p>
+        <p>
+          <!-- 6 -->
+          Item <name>augustinus</name> <title>enchi</title> capitulo 73 <add place="margin-left">usque a deo</add> vis rationa<lb ed="#P"/>bilis 
+          refugit nulla falsitatem et <unclear>quantum</unclear> potest devitat errorem <add place="above-line">non</add> est <unclear>fallibiliter</unclear> nolit 
+          <lb ed="#P"/>etiam quicumque amant fallere
+        </p>
+        <p>
+          <!-- 7 -->
+          Item si potest odiri veritas universaliter <unclear>isto</unclear> quod aliquis <unclear>hac</unclear> 
+          odio eam ergo dico ei cum <add>??</add> odis<del>ti</del> veritatem omni ergo verum est te odire verita<lb ed="#P"/>tem 
+          omnem hoc verum <unclear>an???</unclear> non odisti <del>ergo</del> <add place="margin-right">et tunc</add> non odisti veritatem omni <pc type="virgula">/</pc> aut odisti 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P"/>et tunc <subst><del>ostendire</del> <add place="above-line">odisti</add></subst> odireveritatem omni sed quod odisti non <unclear>visum</unclear> ergo non <unclear>visum</unclear> odire veritatem 
+          <lb ed="#P"/>omnem sed si novis odire non odisti cum sic voluntas libera a coactione ergo non odisti 
+          <lb ed="#P"/>veritatem omni ergo tam <del>verbum</del> non odire veritatem omni ut <add place="margin-right">ver et sequ?</add> <del>sequitur e</del> dato opposito scilicet odiri 
+          <lb ed="#P"/>veritatem omni
+        </p>
+        <p>
+          <!-- 8 -->
+          Item si odisti hanc veritatem amas oppositam quia odium radicatur in 
+          <lb ed="#P"/>amore ergo non potes odire simul omni
+        </p>
+        <p>
+          <pc type="#pilcrow"/>Solutio hic videndum primo quare veritas non oditur 
+          <lb ed="#P"/>nec falsitas amatur 2o quare verbum verum oditur et falsum amatur
+        </p>
+        <p>
+          ad primum notandum quod 
+          <lb ed="#P"/>verbum vocale est signum verbi mentalis et verbum mentale signum rei et <add place="margin-right">ubi</add> verbum 
+          <lb ed="#P"/>vocale et mentale non conformantur sed discordantur dicitur duplicitas ubi autem mentale 
+          <lb ed="#P"/>et res dicitur falsitas <pc type="virgula">/</pc> et veritas est quando <seg type="correction"><add>con</add>formantur</seg> et ideo sicut conformitas <add place="above-line">est</add> utriusque conforman<lb ed="#P"/>tium
+          sic veritas rei et verbi <pc type="virgula">/</pc> et dicitur falsitas <del rend="vacat">ubi mentalis et verbum mentale</del> quia 
+          <lb ed="#P"/>fallit eum cuius est verbum sicut duplicitas ad quem fit verbum <pc type="virgula">/</pc> potest autem contingere 
+          <lb ed="#P"/>ut alia sint odibilia quorum tamen conformitas non oditur <pc type="virgula">/</pc> non <del>n</del> qui odit aliquos 
+          <lb ed="#P"/>qui sunt <unclear>fratres</unclear> <unclear>firmitatem</unclear> eorum odit <pc type="virgula">/</pc> Similiter nunciatur alicui revertenti id domum 
+          <lb ed="#P"/>suam quod domus sua accensa est videt firmum <del>non</del> ascendem displicet ei coniunc<lb ed="#P"/>tio 
+          ignis cum domo <pc type="virgula">/</pc> 
+          Item displicet eius signum ei scilicet fumum <pc type="virgula">/</pc> sed numquid rebus 
+          <lb ed="#P"/>sic se habentibus displicem ei confortas naturalis inter ignem et <unclear>firm?ce</unclear> 
+          <lb ed="#P"/>non <pc type="virgula">/</pc> 
+          
+          Similiter si <unclear>munitate</unclear> es <unclear>l?es</unclear> displicet etiam haec compositio in re displicet 
+          <lb ed="#P"/>etc verbum mentis quo <unclear>hac</unclear> dicitur sed <subst><add place="margin-right">forte</add> <del>ece</del></subst> quod hac verbum conformatur hoc rei rebus <del>sic</del> se 
+          <lb ed="#P"/>habentibus ut nunc non displicet tibi <del rend="vacat">et verbum mentis quo hic dicitur sed certe 
+          <lb ed="#P"/>quod hoc verbum conformatur hoc rei rebus sit se habentibus ut nunc non displicet 
+          <lb ed="#P"/>tibi</del> velles quidem quod <subst><add place="margin-right">huic <unclear>compositioni</unclear></add> <del>li m</del></subst> verbum mentis non Respondet compositioni in re et tunc 
+          <lb ed="#P"/>fateor esset verbum falsum sed hic nihil est nisi nolle rem esse <pc type="virgula">/</pc> sed certe re existente 
+          <lb ed="#P"/>hoc verbum non conformari huic rei est non intelligibile et ideo volitum esse non potest 
+          <lb ed="#P"/>et ideo veritas omnino odiri non potest quae est adaequatio <unclear>realiter</unclear> et <unclear>intellectui</unclear> <unclear>realis</unclear> <add>et</add> conformi<lb ed="#P"/>tas 
+          eorum <pc type="virgula">/</pc> concedo ergo primum et 2m et 3m 4m et 5m rationem
+        </p>
+        <p>
+          <pc type="virgula">/</pc>ad primum autem <unclear>contra</unclear> 
+          <lb ed="#P"/>Respondeo quod propositio vera odiri potest et falsa amari non tamen veritas odiri et falsi<lb ed="#P"/>tas 
+          amari et ponit <unclear>tentius</unclear> veritatem <unclear>pro?ait</unclear> patet ex auctoritate sequenti pau<lb ed="#P"/>li
+          <!-- but to the first aganist I respond that a true propositions is able to be hated 
+            and false proposition is able to be loved, 
+            nevertheless the truth is not able to be hated and the falsity is not able to be loved, 
+            and it puts that  
+          -->
+            
+        </p>
+        <p>
+          <pc type="virgula">/</pc>ad 4m dico quod verum et vera correptio oditur ipsa <subst><del>autem</del> <add place="margin-right"><unclear>enim</unclear></add></subst> verbum oris <unclear>quod?</unclear> 
+          <lb ed="#P"/>signum verbi mentis et verbum mentis signum rei et ita verbum oris est signum repraesent<lb ed="#P"/>tativum 
+          <unclear>43</unclear> quorum utrumque odibile scilicet rei quae repraehensibilis est et verbi <unclear>mentis</unclear> 
+          <lb ed="#P"/>et male opinionis de <del>e</del>quoquis corrumpitur sed conformitas illa quae est verbi oris et mentis 
+          <lb ed="#P"/>non displicet immo contrarium scilicet duplicitas displicet <pc type="virgula">/</pc> supra conformitas rei <add>et</add> quae est 
+          <lb ed="#P"/>et verbi mentis decora non displicet <pc type="virgula">/</pc> quare autem falsa advertio placet <unclear>contingere</unclear> 
+          <lb ed="#P"/>ex diversis causis <pc type="virgula">/</pc> aut propter mentis <unclear>obiectationem</unclear> in eo qui laudatur aut propositio<lb ed="#P"/>nem 
+          laudatoris <pc type="virgula">/</pc> primum sic patet dicit <name>augustinus</name> sol 1 7 imitatur ipsa enun<lb ed="#P"/>tiatione 
+          veras sententias falsa sententia <pc type="virgula">/</pc> haec autem imitatio vel assertiva prolatio 
+          <lb ed="#P"/>tam valida est ut alliceat ad credendum et perficiat si multotiens repli<lb ed="#P"/>cetur 
+          unde tullius <unclear>deparda?s</unclear> non causa incredibile quod non dicendo fiat probabile et 
+          <lb ed="#P"/>sic mentis execatur non laudatoris
+        </p>
+        <p>
+          Item amat quod bene sentiatur de se sed quia 
+          <lb ed="#P"/>verbum oris est iudicium sententiae cordis placet ad u?l?o quia indicat bonam 
+          <lb ed="#P"/>opinionem haberi de eo <pc type="virgula">/</pc> potest et <unclear>umm?us</unclear> amor bonae opinionis excetare <pc type="virgula">/</pc> <unclear>axlogus</unclear> 
+          <lb ed="#P"/>intentilogio amor et odium pervertunt <subst><add>iudicii</add><del>indiciis</del></subst> veritatem et ita duplex obce?<lb ed="#P"/>catio 
+          potest facere ut quod falsum credatur verum et <unclear>ame?a</unclear>
+        </p>
+        <p>
+          <pc type="virgula">/</pc> ad 3 dico non sequitur 
+          <lb ed="#P"/><unclear>vult hic etiam finitum</unclear> ergo amat falsitatem bene?sum quippe amare hic esse falsum potest duplici 
+          <lb ed="#P"/>de causa vel quia amat falsitatem quod non vel quia vult compositionem non esse <unclear>ratione/re</unclear> cui 
+          <lb ed="#P"/>Respondet compositio in verbo mentis et ideo ad vitum eorum non tenet argumentum
+          <!-- to the third I say that it does not follow 
+            that he wishes also what is finie, 
+            therefore he loves falsity -->
+        </p>
+        <p>
+          ad 5m dico quod si 
+          <lb ed="#P"/>intelligatur de logice non suavitas propter falsitatem sed quia delecant eum falle 
+          <lb ed="#P"/>non falsitas <pc type="virgula">/</pc> si de audiente falsitas laudes suas tunc delectat eum veritas quam 
+          <lb ed="#P"/>ipse credit in esse vel quam decens credidit ut dixi
+        </p>
+        <p>
+          <pc type="virgula">/</pc> ultimas duas rationes concedo
+        </p>
       </div>
     </body>
   </text>
